@@ -1,11 +1,16 @@
 # Less is More (LiM) - Simplifying Network Traffic Classification
 
+<p align="center">
+   <a href="https://doi.org/10.5281/zenodo.14840527" target='_blank'><img src="https://zenodo.org/badge/924667348.svg" alt="DOI"></a>
+   <a href=''><img src='https://img.shields.io/badge/license-MIT-000000.svg'></a> 
+</p>
+
 This repository contains the implementation of **LiM (Less is More)**, a lightweight network traffic classification approach using **NetMatrix** representation and an **XGBoost classifier**. LiM is based on the research paper:
 
 > **"Less is More: Simplifying Network Traffic Classification Leveraging RFCs"**\
 > *Nimesha Wickramasinghe, Arash Shaghaghi, Elena Ferrari, Sanjay Jha*\
 > *Published at WWW Companion '25*\
-> [Read the paper](https://doi.org/10.1145/3701716.3715492)
+> [Read it on ACM DL](https://doi.org/10.1145/3701716.3715492) | [Read it on ArXiv](https://arxiv.org/abs/2502.00586)
 
 ## 📌 Overview
 
