@@ -84,14 +84,20 @@ If you find this work useful, please consider citing our paper:
 
 ```bibtex
 @inproceedings{wickramasinghe2025lim,
-  author = {Nimesha Wickramasinghe, Arash Shaghaghi, Elena Ferrari, Sanjay Jha},
-  title = {Less is More: Simplifying Network Traffic Classification Leveraging RFCs},
-  booktitle = {Companion Proceedings of the ACM Web Conference 2025},
-  year = {2025},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  doi = {10.1145/3701716.3715492},
-  series = {WWW '25}
+   author = {Wickramasinghe, Nimesha and Shaghaghi, Arash and Ferrari, Elena and Jha, Sanjay},
+   title = {Less is More: Simplifying Network Traffic Classification Leveraging RFCs},
+   year = {2025},
+   isbn = {9798400713316},
+   publisher = {Association for Computing Machinery},
+   address = {New York, NY, USA},
+   url = {https://doi.org/10.1145/3701716.3715492},
+   doi = {10.1145/3701716.3715492},
+   booktitle = {Companion Proceedings of the ACM on Web Conference 2025},
+   pages = {1398–1401},
+   numpages = {4},
+   keywords = {encrypted traffic classification, lim, netmatrix, rfc-compliance},
+   location = {Sydney NSW, Australia},
+   series = {WWW '25}
 }
 ```
 
